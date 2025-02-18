@@ -1,0 +1,13 @@
+user_prompt,URL,Manual_score,Function_score
+What are the latest updates on global politics?,https://www.nytimes.com,0.9,0.3
+Can Wikipedia be trusted for academic research?,https://www.wikipedia.org,0.7,0.6
+What are the most trending topics in technology today?,https://www.reddit.com,0.4,0
+What is the impact of artificial intelligence on jobs?,https://www.cnn.com,0.8,0.5
+How does climate change affect global weather patterns?,https://www.bbc.com,0.85,0.3
+What are the latest scientific breakthroughs in medicine?,https://www.sciencedirect.com,0.95,0
+What are the official symptoms of COVID-19?,https://www.nih.gov,1,0.6
+How can I improve my writing skills for blogging?,https://www.medium.com,0.5,0.3
+What are the benefits of publishing research on ResearchGate?,https://www.researchgate.net,0.9,0
+What are the key financial trends to watch for this year?,https://www.forbes.com,0.6,0.3
+What is NASA's latest mission in space exploration?,https://www.nasa.gov,1,0.6
+Are vaccines safe for children according to WHO?,https://www.who.int,1,0.3
