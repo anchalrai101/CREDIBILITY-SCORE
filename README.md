@@ -4,7 +4,10 @@ Deliverable 1 deliverable1(propercommit).ipynb checks the credibility scores of 
 
 In deliverable 2 deliverable2(propercommit).ipynb we are using URL Credibility Validator, it is used to evaluate the credibility of web pages based on various factors. It also includes a function to generate a CSV file containing user prompts, URLs, and their credibility scores. When you run this function, it creates a CSV file named credibility_scores.csv and automatically downloads it to your device.
 
-In deliverable 3 deliverable3(commit).ipynb we extracted data from github which are checking the credibility scores. 
+In deliverable 3 deliverable3(commit).ipynb we extracted data from github which are checking the credibility scores.  The model is trained using TensorFlow and can be easily deployed or downloaded from Hugging Face. We have prepared the data taking the extracted data and the code proceses the text data using a tokenizer, and trains the model while monitoring its accuracy. The validation loss is overfitting so it performs well on training data but poorly on unseen data. 
+
+ I have deployed the model on hugging face aswell which can be accessed here https://huggingface.co/anchalrai101.
+ 
 
 
 
